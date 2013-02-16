@@ -1,0 +1,17 @@
+403d97f839c87d596d3aeca52435b3f7 *DESCRIPTION
+2c3618c6338066e0d733182eb9e17a05 *NAMESPACE
+e8921bc2a56e22ad70933a0ecf0f9e5e *R/conv2Freq.R
+cbeabbed958fe61dbbd91d0ab8d70eea *R/normalize.R
+5fbb315c2d719251a320457949a8a27e *R/simDic.R
+c55a4432ad0fc5a8e0191459daf02c6f *R/simDoc.R
+37014e15e9633da6e70065655d12f24f *R/simSum.R
+a319eb3ef55f34f63173f790b11f59a5 *R/simSyn.R
+923f7fdb1c3c0f25b9e3037233741c76 *R/uniform.R
+52248a79c12f40aced6ea0b88e6cb5fa *man/conv2Freq.Rd
+f5224a7ce6cf14345af862c282e58c25 *man/normalize.Rd
+5856c25de4020d7dbcaed1878a985ded *man/simDic.Rd
+c0253858bbb783fd1685650b783e3bb7 *man/simDoc.Rd
+1501f314dc6408fd8ba032754d390a43 *man/simSum.Rd
+cff1ca35060c90e336394493b20eaffb *man/simSyn.Rd
+182d549eb590192b542c20e9f376c841 *man/smdc-package.Rd
+a6c22b388a9499a9eba468c9107f1e64 *man/uniform.Rd
